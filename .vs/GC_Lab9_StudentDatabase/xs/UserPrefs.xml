@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5A33BCF9-87D6-4734-9CB9-49E186D1B99B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_Lab9_StudentDatabase/Program.cs">
+    <Files>
+      <File FileName="GC_Lab9_StudentDatabase/Program.cs" Line="87" Column="10" />
+      <File FileName="GC_Lab9_StudentDatabase/StudentClass.cs" Line="54" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GC_Lab9_StudentDatabase" expanded="True">
+            <Node name="GC_Lab9_StudentDatabase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GC__Lab9__StudentDatabase PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
